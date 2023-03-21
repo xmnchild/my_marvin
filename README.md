@@ -1,5 +1,8 @@
 
 # Creating an automation test system using Jenkins 
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ae72349b72044e95bcb7557a1f07a61b)](https://app.codacy.com/gh/xmnchild/my_marvin?utm_source=github.com&utm_medium=referral&utm_content=xmnchild/my_marvin&utm_campaign=Badge_Grade)
+
 The aim of this project was to master Jenkins, an Open Source automation platform. I used Docker to containerize my Jenkins instance and deploy it easily with docker-compose. All of the Jenkins configuration of this project is done with configuration files (CasC) and plugins making it easier to do so.
 
 ## Creating a seed job

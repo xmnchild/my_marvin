@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" />
+</p>
+
 # Creating an automation test system using Jenkins 
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ae72349b72044e95bcb7557a1f07a61b)](https://app.codacy.com/gh/xmnchild/my_marvin?utm_source=github.com&utm_medium=referral&utm_content=xmnchild/my_marvin&utm_campaign=Badge_Grade)
